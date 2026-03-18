@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @SebaM180
+#                                                        <centrer>Sebastián Manzo.</centrer>
+
+##                                        Business Analyst | Data Analyst | Bi Analys
+*Turning data into decisions*
+
+
+-👋 Hi, I’m Sebastián Manzo a Businness Analyst with over five years of experience in data analysis.
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Bi
