@@ -1,12 +1,11 @@
-#                                                        <centrer>Sebastián Manzo.</centrer>
+#                                                       Hi, mi name is Sebastián Manzo.
 
-##                                        Business Analyst | Data Analyst | Bi Analys
+##                                        Business Analyst | Data Analyst | Bi Analyst
 *Turning data into decisions*
 
 
--👋 Hi, I’m Sebastián Manzo a Businness Analyst with over five years of experience in data analysis.
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+-👋 Hi, I’m Sebastián Manzo, a Business Analyst with over five years of experience in data analysis. I’m currently expanding my skills by learning data analysis with Python.
+- 👀 I’m interested in machine learning and forecasting with Python.
 - 💞️ I’m looking to collaborate on Bi
 - 📫 How to reach me ...
 
