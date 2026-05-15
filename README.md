@@ -1,4 +1,4 @@
-#                                                       Hi, mi name is Sebastián Manzo.
+#                                                       Hi👋, mi name is Sebastián Manzo.
 
 ##                                        Business Analyst | Data Analyst | Bi Analyst
 *Turning data into decisions*
